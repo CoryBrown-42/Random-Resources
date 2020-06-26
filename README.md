@@ -1,7 +1,6 @@
-# Random-Resources
-A collection of links to a variety of materials.
+# Resources
 
-<h1>Links</h1>
+<h2>Links</h2>
 
 https://www.unrealengine.com/en-US/blog/collision-filtering
 
